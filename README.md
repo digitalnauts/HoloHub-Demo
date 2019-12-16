@@ -1,2 +1,2 @@
-# HoloHub-Demo
-An demo Module for HoloHub
+# HoloHub Demo
+Coming soon
