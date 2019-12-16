@@ -1,2 +1,2 @@
 # HoloHub Demo
-Coming soon
+Download the latest demo here https://github.com/digitalnauts/HoloHub-Demo/releases
